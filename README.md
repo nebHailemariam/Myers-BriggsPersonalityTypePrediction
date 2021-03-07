@@ -1,6 +1,6 @@
 # Myers-Briggs Personality Type Prediction
 
-Myers-Briggs Personality Type Prediction using deep neural networks
+Predicting Myers-Briggs Personality Type from posts made by users using deep neural networks.
 
 ## Cloning and Installing Dependencies
 
